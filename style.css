@@ -1,9 +1,12 @@
 html {
   background-color: rgb(202, 255, 202);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: larger;
+  text-align: center;
 }
 h1 {
   text-decoration: wavy;
-  color: aquamarine;
+  color: rgb(59, 175, 221);
 }
 p {
   text-transform: uppercase;
